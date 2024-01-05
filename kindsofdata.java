@@ -13,7 +13,6 @@ class Data{
         System.out.println("float is "+f);
         System.out.println("double is "+d);
         System.out.println("short is "+s);
-	system.out.println("HELLO WORLD");        
 
 
     }
