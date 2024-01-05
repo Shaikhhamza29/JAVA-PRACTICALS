@@ -12,7 +12,8 @@ class Data{
         System.out.println("int is "+a);
         System.out.println("float is "+f);
         System.out.println("double is "+d);
-        System.out.println("short is "+s);        
+        System.out.println("short is "+s);
+	system.out.println("HELLO WORLD");        
 
 
     }
