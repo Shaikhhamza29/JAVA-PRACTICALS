@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class positive{
+class wholenumber{
 		public static void main(String args[]){
 				byte b1;
 				Scanner scin = new Scanner(System.in);
